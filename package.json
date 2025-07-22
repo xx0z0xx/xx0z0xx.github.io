@@ -11,7 +11,7 @@
     "react": "^16.13.0",
     "react-card-flip": "git+https://github.com/heath3conk/react-card-flippin.git",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "predeploy": "npm run build",
